@@ -56,7 +56,8 @@ mod smart_points_2;
 mod trait_polymorphism;
 mod trait_operators;
 mod arc_mutex;
-
+mod oop_2;
+mod multi_process;
 
 fn main() {
     loop_while_for::loop_();
