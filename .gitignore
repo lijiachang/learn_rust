@@ -1,0 +1,12 @@
+# Rust build artifacts
+/target
+
+# IDE
+/.idea/
+/.vscode/
+
+# macOS
+.DS_Store
+
+# 示例代码运行时生成的文件 (src/panic_.rs)
+/hello.txt
