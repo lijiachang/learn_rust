@@ -43,7 +43,7 @@ impl Draw for SelectBox{
     }
 }
 
-fn fn main() {
+fn main() {
     let screen: Screen = Screen{
         components: vec![
             Box::new(SelectBox{

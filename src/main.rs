@@ -58,6 +58,7 @@ mod trait_operators;
 mod arc_mutex;
 mod oop_2;
 mod multi_process;
+mod macro_;
 
 fn main() {
     loop_while_for::loop_();
@@ -98,5 +99,6 @@ fn main() {
     advanced_fn_and_closure::main();
     // async_1::main();
     // file_loop::main();
-    decimal::main();
+    // decimal::main();
+    macro_::main();
 }
